@@ -1,0 +1,4 @@
+samrat : 123, sam@gmail.com
+nishan : 456, nis@yahoo.com
+sudip : 789, sud@hotmail.com
+naruto : 1917, naru@hina.com
