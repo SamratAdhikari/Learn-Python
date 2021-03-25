@@ -1,0 +1,23 @@
+
+My Plans:
+
+[ 2019-07-26 22:34:03.373885 ] : Offline Wifi 
+     -- It is basically a wifi, but what makes it different from the normal wifi is that, the user could save the wifi just like a file or a certain data when he is online(connected to wifi) and later use the wifi while he is offline. 
+ 	(My wifi range wouldnt reach upto my room so i couldnt use wifi while being inside the room. So i thought alot about it and came up with this uncommon yet possible solution. They say: There is development when there is need, and I say its true.)
+
+[ 2019-08-08 17:39:16.604968 ] : Voice-Assistance for Database(Excel/List) 
+ 	 -- Its just another Voice Assistance program. It is specially used to retrive the Data/Title/Detials about a specific object listed within the database/list. The program uses voice command from the user and it outputs the required data as in 'Text-Speech' form. (I am planning to name it 'Jarvis' or 'Bee'.) 
+ 	 	(Actually this idea wasnt created by me. Its all thanks to LBG sir. Once, he said he spent approx. 1 hr in seprating the section of the students by looking at a hardcopy print of list of students of grade 12. Had there been a program to execute the same function that my 'plan' would do, then it would be lot easier for people like LBG sir and other people whose profession includes processing/retriving/appending the datas in a sheet of paper.)
+
+[ 2019-10-10 16:22:48.072205 ] : Nepal Military MRE 
+ 	 -- "Meal Ready to Eat"(MRE) is a anytime ready to eat meal containing all the essentail nutrients food especially for the military soldiers to eat down there on the battle field. It can also serve as a "Food Supply" for the civilians at the times of crisis (especially earthquake, flood, landslide and even the epidemics). Instead of transporting heavy loads of rice grains and vegetables, this MRE can be used as the important alternative. Its use is simple and quick, even the fire aint needed to cook/heat up the foods as it includes fireless/smokeless heating element. A single bag of MRE can last for 24-hours for a single person. But since its for the Military purposes, I must get authority and allowance from Nepal Government. Ofcourse the hygiene and "balanced-diet" are taken as the major concern. 
+ 	 	(Well, I was surfing through the recommended videos in youtube and forturnately enough, I happen to come across a video from a Russian-American Youtuber who posted these videos about "Testing the Military MRE" of the countries across the globe. Then out of curiosity, I googled if there was/were some MRE for the Nepal Military but sorry to say, there were none. And the rest is history. )
+
+[ 2019-10-12 11:31:32.823105 ] : Camera Contact Lens 
+ 	 -- Its a contact lens which acts as a camera. It can record videos that you see with your own eyes and can capture pictures that you see. Talking about appereance, it looks as simple as an ordinary contact lens. It doesnt inculde any heavy mechanical engines and aint a burden for the user. Its sole objective is to enable the user to capture the beautiful memories that he sees his own eyes so that there would be less chance of missing that exact moment. 
+ 	 	(I always used to wonder 'How cool would it be if I were able to capture every awesome thing that happens whenever and wherever I am, especially when i dont have camera at the moment r when its not relevent to take a picture.'But appereantly, Sony seems to be working on this project, they are yet to release its air-date. So thats that. Well lets see what happens. *fingers crossed!)
+
+[ 2020-02-16 18:40:19.622761 ] : Magno-Electricity 
+ 	 -- It is clearly based on Magnet and Magnetic Property. When two freely suspended cylindrical magnets are kept together, they are rotated due to repeated attaction and repulsion which can be used to rotate turbines constantly for long period of time. So far, this project isnt implemented in Nepal. This is a cheap but effective method to produce electicity.
+ 	 	(I always like to wonder about various things during the class. And there was this Chapter in Physics about Magnetism and thats when this idea struk my mind. This sounds promising but I have yet to do some research on it.)
+
